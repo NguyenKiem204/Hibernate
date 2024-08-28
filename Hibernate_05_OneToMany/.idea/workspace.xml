@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="73f3695a-6fb3-4859-9ccb-f9e5e80b0677" name="Changes" comment="" />
+    <list default="true" id="73f3695a-6fb3-4859-9ccb-f9e5e80b0677" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Hibernate_04_ManyToOne/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Hibernate_04_ManyToOne/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hibernate_04_ManyToOne/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Hibernate_04_ManyToOne/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,6 +25,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "NguyenKiem204"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/NguyenKiem204/Hibernate.git",
+    "accountId": "51541c6c-97d3-4b0a-92ee-092b0df8ac9f"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -45,7 +60,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   },
   "keyToStringList": {
     "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
