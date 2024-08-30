@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="73f3695a-6fb3-4859-9ccb-f9e5e80b0677" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Hibernate_06_ManyToMany/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hibernate_06_ManyToMany/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hibernate_06_ManyToMany/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hibernate_06_ManyToMany/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hibernate_06_ManyToMany/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hibernate_06_ManyToMany/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hibernate_06_ManyToMany/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hibernate_06_ManyToMany/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hibernate_06_ManyToMany/src/main/java/dao/InterfaceDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hibernate_06_ManyToMany/src/main/java/model/Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hibernate_06_ManyToMany/src/main/java/model/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hibernate_06_ManyToMany/src/main/java/test/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hibernate_06_ManyToMany/src/main/java/until/HibernateUntil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hibernate_06_ManyToMany/src/main/resources/hibernate.cfg.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hibernate_05_OneToMany/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Hibernate_05_OneToMany/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="73f3695a-6fb3-4859-9ccb-f9e5e80b0677" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,7 +52,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/WorkSpace/Hibernate/Hibernate_07_Inheritance",
+    "last_opened_file_path": "D:/WorkSpace/FrameWork/demo_helloSpringboot",
     "onboarding.tips.debug.path": "D:/WorkSpace/Hibernate/Hibernate_01/src/main/java/org/example/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
